@@ -1,0 +1,18 @@
+<RadSideDrawer>
+  <StackLayout tkDrawerContent>
+    <Label text="close drawer" (tap)="closeDrawer()"></Label>
+    <Label text="test"></Label>
+    <Label text="test"></Label>
+    <Label text="test"></Label>
+    <Label text="test"></Label>
+    <Label text="test"></Label>
+  </StackLayout>
+  <StackLayout tkMainContent>
+    <ActionBar title="My App" class="action-bar">
+    </ActionBar>
+
+    <StackLayout class="page">
+        <Label horizontalAlignment="center" text="open drawer" (tap)="openDrawer()"></Label>
+    </StackLayout>
+  </StackLayout>
+</RadSideDrawer>

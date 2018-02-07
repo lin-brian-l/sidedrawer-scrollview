@@ -1,0 +1,514 @@
+[
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/brianlin/.android/build-cache/51ac0a2508c6709e162023d4d89a83048c437876/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/data_form_label_editor.xml",
+        "source": "/Users/brianlin/.android/build-cache/b6a86760a64d8c18860b3418b2d39ced219586ea/output/res/layout/data_form_label_editor.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/radchartbase.xml",
+        "source": "/Users/brianlin/.android/build-cache/d61fa94b3fa5324016e983e136be26964c428ee4/output/res/layout/radchartbase.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/suggestion_item_layout.xml",
+        "source": "/Users/brianlin/.android/build-cache/0668216a570a62c1f5b1ac0b9129cfbe6c1633ba/output/res/layout/suggestion_item_layout.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/data_form_seek_bar_editor.xml",
+        "source": "/Users/brianlin/.android/build-cache/b6a86760a64d8c18860b3418b2d39ced219586ea/output/res/layout/data_form_seek_bar_editor.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/data_form_root_layout.xml",
+        "source": "/Users/brianlin/.android/build-cache/b6a86760a64d8c18860b3418b2d39ced219586ea/output/res/layout/data_form_root_layout.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/navigation_item_view.xml",
+        "source": "/Users/brianlin/.android/build-cache/e1246434406a772c82881a0a5a8af00b28f57932/output/res/layout/navigation_item_view.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/brianlin/.android/build-cache/51ac0a2508c6709e162023d4d89a83048c437876/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/brianlin/.android/build-cache/51ac0a2508c6709e162023d4d89a83048c437876/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/calendar_all_day_event_view.xml",
+        "source": "/Users/brianlin/.android/build-cache/11df4408035efee02a42dc8cc3cf60f0e1e9853d/output/res/layout/calendar_all_day_event_view.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/inline_event.xml",
+        "source": "/Users/brianlin/.android/build-cache/11df4408035efee02a42dc8cc3cf60f0e1e9853d/output/res/layout/inline_event.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/brianlin/.android/build-cache/51ac0a2508c6709e162023d4d89a83048c437876/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/simple_group_header_item.xml",
+        "source": "/Users/brianlin/.android/build-cache/fd9e405a397a68a0450dff2edacd6e5b877189bb/output/res/layout/simple_group_header_item.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/data_form_rad_autocomplete_editor.xml",
+        "source": "/Users/brianlin/.android/build-cache/b6a86760a64d8c18860b3418b2d39ced219586ea/output/res/layout/data_form_rad_autocomplete_editor.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/brianlin/.android/build-cache/51ac0a2508c6709e162023d4d89a83048c437876/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/data_form_decimal_editor.xml",
+        "source": "/Users/brianlin/.android/build-cache/b6a86760a64d8c18860b3418b2d39ced219586ea/output/res/layout/data_form_decimal_editor.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/brianlin/.android/build-cache/92d253a268863ed53980ced51004cd4b1d81dde0/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/notification_action.xml",
+        "source": "/Users/brianlin/.android/build-cache/51ac0a2508c6709e162023d4d89a83048c437876/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/default_tooltip_scatter_content.xml",
+        "source": "/Users/brianlin/.android/build-cache/d61fa94b3fa5324016e983e136be26964c428ee4/output/res/layout/default_tooltip_scatter_content.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/brianlin/.android/build-cache/51ac0a2508c6709e162023d4d89a83048c437876/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/number_picker.xml",
+        "source": "/Users/brianlin/.android/build-cache/b6a86760a64d8c18860b3418b2d39ced219586ea/output/res/layout/number_picker.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/default_trackball_content.xml",
+        "source": "/Users/brianlin/.android/build-cache/d61fa94b3fa5324016e983e136be26964c428ee4/output/res/layout/default_trackball_content.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/data_form_switch_editor.xml",
+        "source": "/Users/brianlin/.android/build-cache/b6a86760a64d8c18860b3418b2d39ced219586ea/output/res/layout/data_form_switch_editor.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/default_tooltip_scatter_bubble_content.xml",
+        "source": "/Users/brianlin/.android/build-cache/d61fa94b3fa5324016e983e136be26964c428ee4/output/res/layout/default_tooltip_scatter_bubble_content.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/data_form_text_editor.xml",
+        "source": "/Users/brianlin/.android/build-cache/b6a86760a64d8c18860b3418b2d39ced219586ea/output/res/layout/data_form_text_editor.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/brianlin/.android/build-cache/51ac0a2508c6709e162023d4d89a83048c437876/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/error_activity.xml",
+        "source": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/src/debug/res/layout/error_activity.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/on_demand_manual.xml",
+        "source": "/Users/brianlin/.android/build-cache/fd9e405a397a68a0450dff2edacd6e5b877189bb/output/res/layout/on_demand_manual.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/fragment_feedback_items.xml",
+        "source": "/Users/brianlin/.android/build-cache/44e3eff89b0ff93daf187652cc22d33644a62bbf/output/res/layout/fragment_feedback_items.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/data_form_checkbox_editor.xml",
+        "source": "/Users/brianlin/.android/build-cache/b6a86760a64d8c18860b3418b2d39ced219586ea/output/res/layout/data_form_checkbox_editor.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/trackball_container.xml",
+        "source": "/Users/brianlin/.android/build-cache/d61fa94b3fa5324016e983e136be26964c428ee4/output/res/layout/trackball_container.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/brianlin/.android/build-cache/92d253a268863ed53980ced51004cd4b1d81dde0/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/data_form_number_picker.xml",
+        "source": "/Users/brianlin/.android/build-cache/b6a86760a64d8c18860b3418b2d39ced219586ea/output/res/layout/data_form_number_picker.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/data_form_radio_group_editor.xml",
+        "source": "/Users/brianlin/.android/build-cache/b6a86760a64d8c18860b3418b2d39ced219586ea/output/res/layout/data_form_radio_group_editor.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/popup_edit_details.xml",
+        "source": "/Users/brianlin/.android/build-cache/44e3eff89b0ff93daf187652cc22d33644a62bbf/output/res/layout/popup_edit_details.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/brianlin/.android/build-cache/51ac0a2508c6709e162023d4d89a83048c437876/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/simple_list_item.xml",
+        "source": "/Users/brianlin/.android/build-cache/fd9e405a397a68a0450dff2edacd6e5b877189bb/output/res/layout/simple_list_item.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/feedback_indicator.xml",
+        "source": "/Users/brianlin/.android/build-cache/44e3eff89b0ff93daf187652cc22d33644a62bbf/output/res/layout/feedback_indicator.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/data_form_editor_layout_1.xml",
+        "source": "/Users/brianlin/.android/build-cache/b6a86760a64d8c18860b3418b2d39ced219586ea/output/res/layout/data_form_editor_layout_1.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/legend_item_view.xml",
+        "source": "/Users/brianlin/.android/build-cache/d61fa94b3fa5324016e983e136be26964c428ee4/output/res/layout/legend_item_view.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/brianlin/.android/build-cache/51ac0a2508c6709e162023d4d89a83048c437876/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/brianlin/.android/build-cache/51ac0a2508c6709e162023d4d89a83048c437876/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/activity_edit_details.xml",
+        "source": "/Users/brianlin/.android/build-cache/44e3eff89b0ff93daf187652cc22d33644a62bbf/output/res/layout/activity_edit_details.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/brianlin/.android/build-cache/51ac0a2508c6709e162023d4d89a83048c437876/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/brianlin/.android/build-cache/51ac0a2508c6709e162023d4d89a83048c437876/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/data_form_editor_layout_3.xml",
+        "source": "/Users/brianlin/.android/build-cache/b6a86760a64d8c18860b3418b2d39ced219586ea/output/res/layout/data_form_editor_layout_3.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/tooltip_container.xml",
+        "source": "/Users/brianlin/.android/build-cache/d61fa94b3fa5324016e983e136be26964c428ee4/output/res/layout/tooltip_container.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/radlegendcontrol.xml",
+        "source": "/Users/brianlin/.android/build-cache/d61fa94b3fa5324016e983e136be26964c428ee4/output/res/layout/radlegendcontrol.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/data_form_linear_layout.xml",
+        "source": "/Users/brianlin/.android/build-cache/b6a86760a64d8c18860b3418b2d39ced219586ea/output/res/layout/data_form_linear_layout.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/data_form_list_editor_item.xml",
+        "source": "/Users/brianlin/.android/build-cache/b6a86760a64d8c18860b3418b2d39ced219586ea/output/res/layout/data_form_list_editor_item.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/brianlin/.android/build-cache/51ac0a2508c6709e162023d4d89a83048c437876/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/feedback_item.xml",
+        "source": "/Users/brianlin/.android/build-cache/44e3eff89b0ff93daf187652cc22d33644a62bbf/output/res/layout/feedback_item.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/data_form_expandable_group_layout.xml",
+        "source": "/Users/brianlin/.android/build-cache/b6a86760a64d8c18860b3418b2d39ced219586ea/output/res/layout/data_form_expandable_group_layout.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/calendar_day_event_view.xml",
+        "source": "/Users/brianlin/.android/build-cache/11df4408035efee02a42dc8cc3cf60f0e1e9853d/output/res/layout/calendar_day_event_view.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/activity_send_feedback.xml",
+        "source": "/Users/brianlin/.android/build-cache/44e3eff89b0ff93daf187652cc22d33644a62bbf/output/res/layout/activity_send_feedback.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/data_form_date_editor.xml",
+        "source": "/Users/brianlin/.android/build-cache/b6a86760a64d8c18860b3418b2d39ced219586ea/output/res/layout/data_form_date_editor.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/simple_empty_content.xml",
+        "source": "/Users/brianlin/.android/build-cache/fd9e405a397a68a0450dff2edacd6e5b877189bb/output/res/layout/simple_empty_content.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/brianlin/.android/build-cache/51ac0a2508c6709e162023d4d89a83048c437876/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/brianlin/.android/build-cache/51ac0a2508c6709e162023d4d89a83048c437876/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/data_form_editor_header_layout_1.xml",
+        "source": "/Users/brianlin/.android/build-cache/b6a86760a64d8c18860b3418b2d39ced219586ea/output/res/layout/data_form_editor_header_layout_1.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/ohlc_trackball_item_content.xml",
+        "source": "/Users/brianlin/.android/build-cache/d61fa94b3fa5324016e983e136be26964c428ee4/output/res/layout/ohlc_trackball_item_content.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/brianlin/.android/build-cache/51ac0a2508c6709e162023d4d89a83048c437876/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/main_menu_list_item.xml",
+        "source": "/Users/brianlin/.android/build-cache/44e3eff89b0ff93daf187652cc22d33644a62bbf/output/res/layout/main_menu_list_item.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/data_form_list_editor.xml",
+        "source": "/Users/brianlin/.android/build-cache/b6a86760a64d8c18860b3418b2d39ced219586ea/output/res/layout/data_form_list_editor.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/token.xml",
+        "source": "/Users/brianlin/.android/build-cache/0668216a570a62c1f5b1ac0b9129cfbe6c1633ba/output/res/layout/token.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/data_form_time_editor.xml",
+        "source": "/Users/brianlin/.android/build-cache/b6a86760a64d8c18860b3418b2d39ced219586ea/output/res/layout/data_form_time_editor.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/brianlin/.android/build-cache/92d253a268863ed53980ced51004cd4b1d81dde0/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/data_form_integer_editor.xml",
+        "source": "/Users/brianlin/.android/build-cache/b6a86760a64d8c18860b3418b2d39ced219586ea/output/res/layout/data_form_integer_editor.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/default_tooltip_content.xml",
+        "source": "/Users/brianlin/.android/build-cache/d61fa94b3fa5324016e983e136be26964c428ee4/output/res/layout/default_tooltip_content.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/brianlin/.android/build-cache/51ac0a2508c6709e162023d4d89a83048c437876/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/brianlin/.android/build-cache/92d253a268863ed53980ced51004cd4b1d81dde0/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/logcat_tab.xml",
+        "source": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/src/debug/res/layout/logcat_tab.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/brianlin/.android/build-cache/51ac0a2508c6709e162023d4d89a83048c437876/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/default_trackball_item_content.xml",
+        "source": "/Users/brianlin/.android/build-cache/d61fa94b3fa5324016e983e136be26964c428ee4/output/res/layout/default_trackball_item_content.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/activity_view_feedback_item.xml",
+        "source": "/Users/brianlin/.android/build-cache/44e3eff89b0ff93daf187652cc22d33644a62bbf/output/res/layout/activity_view_feedback_item.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/data_form_editor_validation_layout_1.xml",
+        "source": "/Users/brianlin/.android/build-cache/b6a86760a64d8c18860b3418b2d39ced219586ea/output/res/layout/data_form_editor_validation_layout_1.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/navigation_drawer_content.xml",
+        "source": "/Users/brianlin/.android/build-cache/e1246434406a772c82881a0a5a8af00b28f57932/output/res/layout/navigation_drawer_content.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/design_text_input_password_icon.xml",
+        "source": "/Users/brianlin/.android/build-cache/92d253a268863ed53980ced51004cd4b1d81dde0/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/design_navigation_item.xml",
+        "source": "/Users/brianlin/.android/build-cache/92d253a268863ed53980ced51004cd4b1d81dde0/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/brianlin/.android/build-cache/51ac0a2508c6709e162023d4d89a83048c437876/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/data_form_editor_header_layout_3.xml",
+        "source": "/Users/brianlin/.android/build-cache/b6a86760a64d8c18860b3418b2d39ced219586ea/output/res/layout/data_form_editor_header_layout_3.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/data_form_spinner_item.xml",
+        "source": "/Users/brianlin/.android/build-cache/b6a86760a64d8c18860b3418b2d39ced219586ea/output/res/layout/data_form_spinner_item.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/activity_view_feedback.xml",
+        "source": "/Users/brianlin/.android/build-cache/44e3eff89b0ff93daf187652cc22d33644a62bbf/output/res/layout/activity_view_feedback.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/brianlin/.android/build-cache/92d253a268863ed53980ced51004cd4b1d81dde0/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/Users/brianlin/.android/build-cache/92d253a268863ed53980ced51004cd4b1d81dde0/output/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/brianlin/.android/build-cache/51ac0a2508c6709e162023d4d89a83048c437876/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/brianlin/.android/build-cache/92d253a268863ed53980ced51004cd4b1d81dde0/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/notification_template_media.xml",
+        "source": "/Users/brianlin/.android/build-cache/51ac0a2508c6709e162023d4d89a83048c437876/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/data_form_segmented_editor.xml",
+        "source": "/Users/brianlin/.android/build-cache/b6a86760a64d8c18860b3418b2d39ced219586ea/output/res/layout/data_form_segmented_editor.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/brianlin/.android/build-cache/51ac0a2508c6709e162023d4d89a83048c437876/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/data_form_autocomplete_editor.xml",
+        "source": "/Users/brianlin/.android/build-cache/b6a86760a64d8c18860b3418b2d39ced219586ea/output/res/layout/data_form_autocomplete_editor.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/brianlin/.android/build-cache/51ac0a2508c6709e162023d4d89a83048c437876/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/data_form_editor_header_layout_2.xml",
+        "source": "/Users/brianlin/.android/build-cache/b6a86760a64d8c18860b3418b2d39ced219586ea/output/res/layout/data_form_editor_header_layout_2.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/brianlin/.android/build-cache/92d253a268863ed53980ced51004cd4b1d81dde0/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/data_form_spinner_editor.xml",
+        "source": "/Users/brianlin/.android/build-cache/b6a86760a64d8c18860b3418b2d39ced219586ea/output/res/layout/data_form_spinner_editor.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/feedback_comment.xml",
+        "source": "/Users/brianlin/.android/build-cache/44e3eff89b0ff93daf187652cc22d33644a62bbf/output/res/layout/feedback_comment.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/list_progress_indicator.xml",
+        "source": "/Users/brianlin/.android/build-cache/44e3eff89b0ff93daf187652cc22d33644a62bbf/output/res/layout/list_progress_indicator.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/brianlin/.android/build-cache/92d253a268863ed53980ced51004cd4b1d81dde0/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/data_form_toggle_button_editor.xml",
+        "source": "/Users/brianlin/.android/build-cache/b6a86760a64d8c18860b3418b2d39ced219586ea/output/res/layout/data_form_toggle_button_editor.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/brianlin/.android/build-cache/51ac0a2508c6709e162023d4d89a83048c437876/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/brianlin/.android/build-cache/92d253a268863ed53980ced51004cd4b1d81dde0/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/popup_event.xml",
+        "source": "/Users/brianlin/.android/build-cache/11df4408035efee02a42dc8cc3cf60f0e1e9853d/output/res/layout/popup_event.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/brianlin/.android/build-cache/51ac0a2508c6709e162023d4d89a83048c437876/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/brianlin/.android/build-cache/92d253a268863ed53980ced51004cd4b1d81dde0/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/abc_search_view.xml",
+        "source": "/Users/brianlin/.android/build-cache/51ac0a2508c6709e162023d4d89a83048c437876/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/brianlin/.android/build-cache/51ac0a2508c6709e162023d4d89a83048c437876/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/main_menu_content.xml",
+        "source": "/Users/brianlin/.android/build-cache/44e3eff89b0ff93daf187652cc22d33644a62bbf/output/res/layout/main_menu_content.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/brianlin/.android/build-cache/51ac0a2508c6709e162023d4d89a83048c437876/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/brianlin/.android/build-cache/51ac0a2508c6709e162023d4d89a83048c437876/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/data_form_text_viewer.xml",
+        "source": "/Users/brianlin/.android/build-cache/b6a86760a64d8c18860b3418b2d39ced219586ea/output/res/layout/data_form_text_viewer.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/drawer_blur_fade_layer.xml",
+        "source": "/Users/brianlin/.android/build-cache/e1246434406a772c82881a0a5a8af00b28f57932/output/res/layout/drawer_blur_fade_layer.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/default_tooltip_ohlc_content.xml",
+        "source": "/Users/brianlin/.android/build-cache/d61fa94b3fa5324016e983e136be26964c428ee4/output/res/layout/default_tooltip_ohlc_content.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/data_form_editor_layout_2.xml",
+        "source": "/Users/brianlin/.android/build-cache/b6a86760a64d8c18860b3418b2d39ced219586ea/output/res/layout/data_form_editor_layout_2.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/range_trackball_item_content.xml",
+        "source": "/Users/brianlin/.android/build-cache/d61fa94b3fa5324016e983e136be26964c428ee4/output/res/layout/range_trackball_item_content.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/exception_tab.xml",
+        "source": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/src/debug/res/layout/exception_tab.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/brianlin/.android/build-cache/51ac0a2508c6709e162023d4d89a83048c437876/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/brianlin/.android/build-cache/51ac0a2508c6709e162023d4d89a83048c437876/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/brianlin/.android/build-cache/51ac0a2508c6709e162023d4d89a83048c437876/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/brianlin/.android/build-cache/51ac0a2508c6709e162023d4d89a83048c437876/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/brianlin/.android/build-cache/51ac0a2508c6709e162023d4d89a83048c437876/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/brianlin/.android/build-cache/51ac0a2508c6709e162023d4d89a83048c437876/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/data_form_group_layout.xml",
+        "source": "/Users/brianlin/.android/build-cache/b6a86760a64d8c18860b3418b2d39ced219586ea/output/res/layout/data_form_group_layout.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/brianlin/.android/build-cache/92d253a268863ed53980ced51004cd4b1d81dde0/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/data_form_default_group_layout.xml",
+        "source": "/Users/brianlin/.android/build-cache/b6a86760a64d8c18860b3418b2d39ced219586ea/output/res/layout/data_form_default_group_layout.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/brianlin/.android/build-cache/51ac0a2508c6709e162023d4d89a83048c437876/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/brianlin/.android/build-cache/51ac0a2508c6709e162023d4d89a83048c437876/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/on_demand_automatic.xml",
+        "source": "/Users/brianlin/.android/build-cache/fd9e405a397a68a0450dff2edacd6e5b877189bb/output/res/layout/on_demand_automatic.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/brianlin/.android/build-cache/51ac0a2508c6709e162023d4d89a83048c437876/output/res/layout/notification_template_media_custom.xml"
+    }
+]

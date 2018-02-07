@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/brianlin/.android/build-cache/fe7c9336444c3d5728dd450aa623931b9b7bcf4f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_c9032942788eb808085c9e77417113a174407714.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brianlin/.android/build-cache/8ea48d8a7e7eca6d1ac643043e4623261ac939e4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="982e84611278a70cb494816d909f689869345cd8">
+        <dex dex="/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_28d2aa1e091d02e29877e26c4fc76de8558ac784.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brianlin/.android/build-cache/b6a86760a64d8c18860b3418b2d39ced219586ea/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b1339b01865e16e475d64a245fe529682451a67d">
+        <dex dex="/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_d7fb6ba0bb26c1ab560ef2e84c51a68b727c18f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brianlin/.android/build-cache/236eb68294cfd3b9f477c3c482c7f727ea8309ac/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
+        <dex dex="/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_f4b76f55ce65b73f6b00c4cc51d5eed7302314b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brianlin/.android/build-cache/0668216a570a62c1f5b1ac0b9129cfbe6c1633ba/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="999137e347707ccec61d19e49c15d11f20db7a3b">
+        <dex dex="/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_92bd6e7b73a4a8b47326bdf975bbe9b185434cc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brianlin/.android/build-cache/e1246434406a772c82881a0a5a8af00b28f57932/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4aaacb48560463db840621574ac215bbd71b5a1c">
+        <dex dex="/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_c8ad2142f6f719edd45e8098239a1b6b5cab145c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brianlin/.android/build-cache/fd9e405a397a68a0450dff2edacd6e5b877189bb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9bfec718689ce8acd54ce41541b34af4efb4e226">
+        <dex dex="/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_e13946f8abf30210c210375b7eaa8f8c49653a1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brianlin/.android/build-cache/350ee193954a60e6be4a6c42f41d0544999befcb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c9cdba8dae1f4168869483047ff5e5c72ad46d42">
+        <dex dex="/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_7fd74074ebeccf2da93627486199d69b07ecd5a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brianlin/.android/build-cache/44e3eff89b0ff93daf187652cc22d33644a62bbf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7a23b91bd7ef759a98228829e925770b50948873">
+        <dex dex="/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_d16ca21996c01400fe9e22632c70415afa5172fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brianlin/.android/build-cache/11df4408035efee02a42dc8cc3cf60f0e1e9853d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9971eabe5d806f8e9037f967c7dddf4331b5a871">
+        <dex dex="/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_b930d86a06c8cb9a51e33b3e5a1e1b248b9e201c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brianlin/.android/build-cache/d61fa94b3fa5324016e983e136be26964c428ee4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5d9328d50f44ddcd29c1efb973fe65c449ac2ee9">
+        <dex dex="/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_01833afe9e861417b0edf6f637b2bb5e3275006f.jar" />
+    </item>
+
+</items>

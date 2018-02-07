@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/incremental/mergeF0DebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/brianlin/.android/build-cache/44e3eff89b0ff93daf187652cc22d33644a62bbf/output/res/values-w820dp-v13/values-w820dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 57,
+                        "endOffset": 108
+                    }
+                }
+            }
+        ]
+    }
+]

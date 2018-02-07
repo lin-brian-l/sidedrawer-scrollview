@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/menu/view_feedback_items_activity_menu.xml",
+        "source": "/Users/brianlin/.android/build-cache/44e3eff89b0ff93daf187652cc22d33644a62bbf/output/res/menu/view_feedback_items_activity_menu.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/menu/send_feedback_activity_menu.xml",
+        "source": "/Users/brianlin/.android/build-cache/44e3eff89b0ff93daf187652cc22d33644a62bbf/output/res/menu/send_feedback_activity_menu.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/sidedrawer-scrollview/platforms/android/app/build/intermediates/res/merged/F0/debug/menu/edit_details.xml",
+        "source": "/Users/brianlin/.android/build-cache/44e3eff89b0ff93daf187652cc22d33644a62bbf/output/res/menu/edit_details.xml"
+    }
+]
